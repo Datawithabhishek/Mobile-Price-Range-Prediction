@@ -15,7 +15,7 @@ Analyze the data through visualization
 
 # Model Performed
 
-• Decision Tree Classifier • Random Forest Classifier • K Nearest Neighbor • Logistic Regression
+• Decision Tree Classifier • Random Forest Classifier • K Nearest Neighbor • Logistic Regression  . Xgboost . Staacking . Random Forest . Naive Bayes . SVC
 
 # Conclusion
 1. From EDA we can see that mid range and high mid range phones is offer good battery performance and expensive phones and mid range phone offer same specs in terms of front mega pixels camera but high mid range phones offer good front camera
@@ -23,4 +23,6 @@ Analyze the data through visualization
 2. There are some top features like Ram,battery_power,px_width,px_height,
 mobile_wt.
 
-3. form all the above experiments we can conclude that logistic regression and,KNN we got the best results
+3. form all the above experiments we can conclude that Stacking and logistic regression gave the good results
+
+4. we chose Logistic Regresion for deploying
