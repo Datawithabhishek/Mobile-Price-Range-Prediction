@@ -25,4 +25,10 @@ mobile_wt.
 
 3. form all the above experiments we can conclude that Stacking and logistic regression gave the good results
 
-4. we chose Logistic Regresion for deploying
+4. we chose stacking  Regresion for deploying
+
+
+
+
+![image](https://user-images.githubusercontent.com/98747222/232224549-da7b1e9d-86d0-4e53-beed-09323c99edb4.png)
+
